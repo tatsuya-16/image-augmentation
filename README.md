@@ -13,5 +13,5 @@
 |INPUT_PATH |入力画像のフォルダパス||
 |OUTPUT_PATH |出力画像の保存先のフォルダパス||
 |IMAGE_NUM |1枚の画像から作成する拡張画像の枚数|枚|
-|IMAGE_WIDTH |画像の幅|ピクセル|
-|IMAGE_HEIGHT |画像の高さ|ピクセル|
+|IMAGE_WIDTH |拡張画像の幅|ピクセル|
+|IMAGE_HEIGHT |拡張画像の高さ|ピクセル|
